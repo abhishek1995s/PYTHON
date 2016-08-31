@@ -3,4 +3,4 @@ This repostory deals with creating creating wbprogram using python.Creating ,mod
 address,dealing with various forms of web request, establising remote server and communicating with it.Transfering data from 
 database to mobile application using jasonify.
 if u have any doubts u can contact me through my email address abhisheks6477@gmail.com
-I hope this might be helpful to u
+I hope this will be helpful to u.
